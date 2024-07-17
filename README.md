@@ -1,1 +1,6 @@
-# Lili Lin, Mengjia Qu, Siyu Bai, Luyao Wang, Xuehui Wei, Wenhui Zhou, Feature-level contrastive learning for full-reference light field image quality assessment, Journal of the Franklin Institute, 2024, 107058, ISSN 0016-0032, https://doi.org/10.1016/j.jfranklin.2024.107058.
+# Feature-level contrastive learning for full-reference light field image quality assessment
+## The data folder contains dataset preprocessing, dataset randomly split for train set and test set and dataset score txt files.
+## The models folder contains the model of our paper.
+## The timm folder and util folder are some utils of network.
+## The FR_config.py is the configuration of our model.
+## The FR_run_save_model.py is the main file of our model.
