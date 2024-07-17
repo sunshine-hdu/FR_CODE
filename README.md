@@ -3,4 +3,4 @@
 ## The models folder contains the model of our paper.
 ## The timm folder and util folder are some utils of network.
 ## The FR_config.py is the configuration of our model.
-## The FR_run_save_model.py is the main file.
+## The FR_run_save_model.py is the training code.
